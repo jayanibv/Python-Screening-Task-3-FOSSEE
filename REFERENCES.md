@@ -4,15 +4,11 @@
 
 Code Llama – Instruct/Python 
 
-Meta Code Llama model card and prompt formats (official): https://www.llama.com/docs/model-cards-and-prompt-formats/meta-code-llama/
-
 CodeLlama‑7B‑Instruct model card (Hugging Face): https://huggingface.co/codellama/CodeLlama-7b-Instruct-hf
 
 Meta Code Llama GitHub/inference code: https://github.com/meta-llama/codellama
 
 Meta prompt formats overview (Llama series): https://www.llama.com/docs/model-cards-and-prompt-formats/llama3_1/
-
-Code Llama 70B prompt template specifics (for context): https://www.llama.com/docs/model-cards-and-prompt-formats/meta-code-llama-70b/
 
 **Prompting guidance (useful for consistent, non‑leaking prompts)**
 
@@ -30,11 +26,6 @@ arXiv copy/overview: https://arxiv.org/html/2503.23989v1 and PDF: https://arxiv.
 
 Short literature summaries: https://www.themoonlight.io/en/review/rubric-is-all-you-need-enhancing-llm-based-code-evaluation-with-question-specific-rubrics and https://ownyourai.com/rubric-is-all-you-need-enhancing-llm-based-code-evaluation-with-question-specific-rubrics/
 
-**Related rubric work (for broader context)**
-
-LLM‑RUBRIC: A multidimensional, calibrated approach to automated evaluation (ACL 2024): https://aclanthology.org/2024.acl-long.745.pdf
-
-Slides/notes: https://www.cs.jhu.edu/~jason/papers/hashemi+al.acl24.slides.pdf
 
 **Optional deployment/model alternatives**
 
