@@ -10,8 +10,6 @@ REASONING.md — Direct answers to the required questions: suitability for compe
 
 REFERENCES.md — Links to model cards, official repos, and key papers that inform the approach (Code Llama model cards/prompt formats; rubric‑guided evaluation research).
 
-templates/prompt_templates.md — Optional examples of analysis and probing‑question prompts plus a rubric snippet, to clarify how prompts avoid solution leakage and stay concept‑focused.
-
 # How to review
 
 Start with RESEARCH_PLAN.md to see the evaluation approach and the validation plan at a glance.
